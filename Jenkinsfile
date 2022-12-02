@@ -13,6 +13,7 @@ pipeline{
           agent none
           steps{
             echo "Welcome"
+            echo "gggg"
           }
         }
       }
